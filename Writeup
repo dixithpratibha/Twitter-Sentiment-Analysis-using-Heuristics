@@ -19,7 +19,6 @@ $ python3 fetch_tweets.py ‐c fetch_samples > streaming_output_full.txt
 Let this script run for about 5 minutes. Keep the file streaming_output_full.txt throughout the
 assignment. You will be using it in later problems.
 
-
 Search API
 
 * Similar to the Streaming API, to get the tweets related to a search term, you can send a GET
